@@ -1,0 +1,19 @@
+.A Systerm to control anti-lock braking in car : The Water Fall Method, reason being this is the ideal model for software that focuses on safety or security.
+
+
+.A virtual reality system to support software maintenance : The Water fall Method, reason being Maintenance involves correcting errors that were not picked up in the previous stages and enhancing and improving the system.
+
+
+.A university accounting system that replaces an existing system : REUSE-ORIENTED SOFTWARE ENGINEERING, reason being Oftentimes we can use code that already exists in a new programme. 
+
+
+
+.An interactive travel planning system that helps users plan journeys with the lowest environmental impact: In this model, the existing code is then taken and adapted to fit with the requirements of the project.
+
+
+
+.It is most effect for business software systerms because developing software incrementally is cheaper and it is easier to make changes as it is being developed were as real time systerms involve many hardware components which are not easy to understand and change.
+
+
+.because you’re not wasting time with work that has already been done, it can be cost-effective, save time, and reduce the risks that accompany newly built components
+
